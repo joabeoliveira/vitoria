@@ -1,0 +1,8 @@
+{
+  "name": "MegaSena PRO — Gerador Inteligente e Gestão de Bolões",
+  "description": "Plataforma avançada de estatísticas, gerador heurístico de jogos, fechamentos matemáticos e gestão completa de bolões da Mega-Sena com histórico oficial de 3.087 concursos.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
